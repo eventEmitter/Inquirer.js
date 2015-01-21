@@ -1,21 +1,14 @@
 {
-  "name": "inquirer",
-  "version": "0.8.1",
-  "description": "A collection of common interactive command line user interfaces.",
+  "name": "ee-inquirer",
+  "version": "0.1.1",
+  "description": "inquirer.js fork",
   "main": "lib/inquirer.js",
   "scripts": {
     "test": "grunt --verbose"
   },
-  "repository": "SBoudrias/Inquirer.js",
-  "keywords": [
-    "command",
-    "prompt",
-    "stdin",
-    "cli",
-    "tty",
-    "menu"
-  ],
-  "author": "Simon Boudrias <admin@simonboudrias.com>",
+  "repository": "eventEmitter/inquirer.js",
+  "keywords": [],
+  "author": "Michael van der Weg <michael@vanderweg.ch>",
   "license": "MIT",
   "files": [
     "lib"
